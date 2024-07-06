@@ -70,14 +70,15 @@
         #info-text {
             max-width: 500px;
             text-align: left;
+                color: white;
+
         }
 
         #youtube-title {
             margin-top: 10px;
             font-size: 24px;
             font-weight: bold;
-                color: white;
-
+            color: white;
         }
 
         #youtube-views, #youtube-subscribers {
@@ -170,14 +171,13 @@
             #info-text {
                 text-align: center;
                 max-width: 100%;
+                    color: white;
+
             }
 
             #youtube-title {
                 font-size: 20px;
-                    color: white;
-                        color: white;
-
-
+                color: white;
             }
 
             #youtube-views, #youtube-subscribers {
