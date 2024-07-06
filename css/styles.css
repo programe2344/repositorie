@@ -86,6 +86,7 @@
             font-size: 20px;
             display: flex;
             align-items: center;
+            color: white;
         }
 
         #youtube-views b, #youtube-subscribers b {
@@ -186,6 +187,7 @@
                 text-align: center;
                 justify-content: center;
                 width: 100%;
+                color: white;
             }
 
             .boost-button {
