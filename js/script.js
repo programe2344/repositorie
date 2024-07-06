@@ -190,7 +190,7 @@ const API_KEY = 'AIzaSyBsUFJTTPKvI21d6jZ26Cz6AAETHEmaGWk';
                         }
                         incrementViewsElement.innerHTML = `Com Impulsionamento: <b>+${formatNumber(currentValue)}</b> Visualizações`;
                     }, 1000);
-                }, 7000);
+                }, 5000);
             }
 
             function incrementSubscribers(startValue) {
@@ -215,7 +215,7 @@ const API_KEY = 'AIzaSyBsUFJTTPKvI21d6jZ26Cz6AAETHEmaGWk';
                         }
                         incrementSubscribersElement.innerHTML = `Com Impulsionamento: <b>+${formatNumber(currentValue)}</b> Inscritos`;
                     }, 1000);
-                }, 7000);
+                }, 5000);
             }
         });
 
