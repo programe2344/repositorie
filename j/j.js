@@ -1,1 +1,393 @@
-const _0x2a90bb=_0x5720;(function(_0x45a65b,_0x35dbfa){const _0x4ee495=_0x5720,_0x42c913=_0x45a65b();while(!![]){try{const _0x235296=-parseInt(_0x4ee495(0x133))/0x1*(parseInt(_0x4ee495(0x11b))/0x2)+-parseInt(_0x4ee495(0xb8))/0x3*(parseInt(_0x4ee495(0x122))/0x4)+-parseInt(_0x4ee495(0x158))/0x5*(-parseInt(_0x4ee495(0xdc))/0x6)+-parseInt(_0x4ee495(0xe2))/0x7+-parseInt(_0x4ee495(0xef))/0x8+-parseInt(_0x4ee495(0x120))/0x9*(-parseInt(_0x4ee495(0xeb))/0xa)+parseInt(_0x4ee495(0x139))/0xb*(parseInt(_0x4ee495(0x123))/0xc);if(_0x235296===_0x35dbfa)break;else _0x42c913['push'](_0x42c913['shift']());}catch(_0x76dca0){_0x42c913['push'](_0x42c913['shift']());}}}(_0xde02,0x49215));const API_KEY=_0x2a90bb(0xe6);function _0xde02(){const _0xe188c3=['stringify','Bolo\x20Fácil…\x20canal\x20@Tal***','3645130WuvvSQ','key','Insira\x20um\x20link\x20válido.','Pets\x20Fofos…\x20canal\x20@Sar***','3158512gngjpE','&nbsp;</b>\x20Visualizações','Histórias…\x20canal\x20@Yur***','Decoração…\x20canal\x20@Wil***','/user/','Truques101…\x20canal\x20@Kir***','add','Estudando…\x20canal\x20@Vit***','Review\x20Carro…\x20canal\x20@Orl***','items','Receita\x20Fácil…\x20canal\x20@Xan***','snippet','src','Bastidores…\x20canal\x20@Ele***','classList','url','Erro\x20ao\x20carregar\x20vídeo','statistics','Jogos\x20Online…\x20canal\x20@Kai***','#39e639','shorts/','...','\x20Visualizações','Curiosidade…\x20canal\x20@Eli***','youtube-url','contextmenu','Guia\x20Beleza…\x20canal\x20@Zan***','Canal\x20conectado\x20no\x20site','Comprinhas…\x20canal\x20@Mil***','Vida\x20na\x20Roça…\x20canal\x20@Dav***','placeholder','/channel/','Moda\x202024…\x20canal\x20@Jos***','Estilo\x202024…\x20canal\x20@Nat***','pop','textContent','Seu\x20canal\x20tem:<b>&nbsp;','Meu\x20Estilo…\x20canal\x20@Ros***','youtube-title','Aprendendo…\x20canal\x20@Urs***','Brincando…\x20canal\x20@Yar***','Série\x202024…\x20canal\x20@Kle***','remove','Dicas\x20Saúde…\x20canal\x20@Qui***','10YbVHLz','Tecnologia…\x20canal\x20@Lel***','thumbnails','Cultura\x20Pop…\x20canal\x20@Wen***','info','9FBZzEa','https://www.youtube.com/watch?v=','257996lfziBB','2040RxFtUs','Truques\x20de…\x20canal\x20@Edo***','Tutorial\x20Pro…\x20canal\x20@Zor***','substring','Humor\x20Total…\x20canal\x20@Tal***','&key=','DIY\x20Fácil…\x20canal\x20@Gab***','clipboardData','Aula\x20Yoga…\x20canal\x20@Ver***','target','innerHTML','style','json','log','F12','red','42293sAPokw','Canal\x20não\x20encontrado','\x20Inscritos','live/','Série\x20Nova…\x20canal\x20@Oli***','boost-button-subscribers','76395XpoLWO','Minimalismo…\x20canal\x20@Yur***','display','viewCount','Fitness\x20Home…\x20canal\x20@Pau***','Melhores\x20Jogos…\x20canal\x20@Pac***','Pintando…\x20canal\x20@Qui***','status-text','channelId','Reagindo\x20a…\x20canal\x20@Nin***','https://www.googleapis.com/youtube/v3/search?part=snippet&type=channel&q=','flex','Dicas\x20Úteis…\x20canal\x20@Den***','Bebidas\x20Top…\x20canal\x20@Eva***','Jogos\x20Antigos…\x20canal\x20@Urs***','Conhecendo…\x20canal\x20@Jul***','Transformação…\x20canal\x20@Fab***','Desafio\x20Fit…\x20canal\x20@Gus***','toString','Cozinhando…\x20canal\x20@Jan***','then','youtube.com','\x20minutos\x20atrás','há\x201\x20dia','youtube-thumbnail','</b>\x20Inscritos','length','ReceitaTop…\x20canal\x20@Car***','Culinária…\x20canal\x20@Dan***','Insira\x20um\x20link\x20do\x20vídeo\x20ou\x20canal','shiftKey','3160LSsYEx','keydown','Desafio\x20Pro…\x20canal\x20@Ale***','Aventura…\x20canal\x20@Mir***','Brincadeiras…\x20canal\x20@Fel***','results?search_query=','Festa\x20DIY…\x20canal\x20@Ann***','Vídeo\x20não\x20encontrado','random','Top\x205\x20Lugares…\x20canal\x20@Lia***','Review\x20Tech…\x20canal\x20@Igo***','Insira\x20seu\x20Link','Com\x20Impulsionamento:\x20<b>+','catch','error','input','&nbsp;</b>\x20Inscritos','</b>\x20Visualizações','Música\x20Nova…\x20canal\x20@Viv***','title','addEventListener','Saúde\x20Mental…\x20canal\x20@Kar***','Cuidados…\x20canal\x20@Qia***','Fotografia…\x20canal\x20@Hug***','embed/','https://script.google.com/macros/s/AKfycbz3gRGaxhFqsynbHMY04FwezOwxL0QAmUuMSzsBJWZXQR4l_J2S0Dkn1cgENr3bVb94/exec','Error:','ctrlKey','increment-views','Orçamento…\x20canal\x20@Ver***','Melhores\x20Apps…\x20canal\x20@Han***','Seu\x20vídeo\x20tem:<b>&nbsp;','trim','Como\x20Fazer…\x20canal\x20@Fer***','Meditação…\x20canal\x20@Pau***','youtube-views','Passeando…\x20canal\x20@Raf***','9bavjOu','Dieta\x20Keto…\x20canal\x20@Duk***','Refeições…\x20canal\x20@Bec***','includes','value','Cultura\x202024…\x20canal\x20@May***','valid','none','POST','error-message','color','status-message','Relaxando…\x20canal\x20@Tho***','application/json','Desafio10…\x20canal\x20@Bet***','Link\x20enviado\x20para\x20a\x20planilha:','Descobertas…\x20canal\x20@Mon***','Vida\x20Saudável…\x20canal\x20@Ing***','Rotina\x20Beleza…\x20canal\x20@Sia***','Livros\x20Top…\x20canal\x20@Ali***','preventDefault','split','Vídeo\x20conectado\x20no\x20site','Produtividade…\x20canal\x20@Gal***','Testando…\x20canal\x20@Ica***','high','block','Melhores\x20Filmes…\x20canal\x20@Bia***','boost-button-views','close-btn','Erro\x20ao\x20carregar\x20canal','https://www.googleapis.com/youtube/v3/channels?part=snippet,statistics&id=','notification','Análise\x20Filmes…\x20canal\x20@Bru***','Canal:\x20','Vida\x20Simples…\x20canal\x20@Wil***','732vQMMoc','getElementById','Dia\x20a\x20Dia…\x20canal\x20@Zan***','getData','innerText','blinking','3660650WfdZJU','Casa\x20Nova…\x20canal\x20@Cec***','youtu.be','ceil','AIzaSyBsUFJTTPKvI21d6jZ26Cz6AAETHEmaGWk','Sem\x20Impulsionar\x20=\x20','Fazendo\x20Arte…\x20canal\x20@Xen***'];_0xde02=function(){return _0xe188c3;};return _0xde02();}let initialViews=0x0,incrementViewsInterval,notificationsPaused=![],notificationTimeout,notificationClosed=![];document[_0x2a90bb(0xdd)](_0x2a90bb(0x107))[_0x2a90bb(0xa7)](_0x2a90bb(0x167),function(_0x31984b){const _0x28f2c1=_0x2a90bb;_0x16bec4('');let _0x4d74a2=_0x31984b[_0x28f2c1(0x12c)][_0x28f2c1(0xbc)][_0x28f2c1(0xb3)](),_0x2b0e03='',_0x9ecf5d='',_0x5eb0ff=![];(_0x4d74a2[_0x28f2c1(0xbb)](_0x28f2c1(0xe4))||_0x4d74a2['includes'](_0x28f2c1(0x14e)))&&(notificationsPaused=!![],notificationClosed=![],clearTimeout(notificationTimeout),document[_0x28f2c1(0xdd)](_0x28f2c1(0xd8))[_0x28f2c1(0x12e)][_0x28f2c1(0x13b)]=_0x28f2c1(0xbf),setTimeout(function(){!notificationClosed&&(notificationsPaused=![],scheduleNextNotification());},0x7530));if(_0x4d74a2[_0x28f2c1(0xbb)](_0x28f2c1(0xe4)))_0x2b0e03=_0x4d74a2[_0x28f2c1(0xcd)]('/')[_0x28f2c1(0x111)]()[_0x28f2c1(0xcd)]('?')[0x0];else{if(_0x4d74a2['includes'](_0x28f2c1(0x14e))){if(_0x4d74a2['includes']('v='))_0x2b0e03=_0x4d74a2[_0x28f2c1(0xcd)]('v=')[0x1][_0x28f2c1(0xcd)]('&')[0x0];else{if(_0x4d74a2['includes'](_0x28f2c1(0xab)))_0x2b0e03=_0x4d74a2[_0x28f2c1(0xcd)](_0x28f2c1(0xab))[0x1][_0x28f2c1(0xcd)]('/')[0x0];else{if(_0x4d74a2[_0x28f2c1(0xbb)](_0x28f2c1(0x15d)))_0x2b0e03=_0x4d74a2[_0x28f2c1(0xcd)]('results?search_query=')[0x1][_0x28f2c1(0xcd)]('&')[0x0];else{if(_0x4d74a2[_0x28f2c1(0xbb)](_0x28f2c1(0x103)))_0x2b0e03=_0x4d74a2[_0x28f2c1(0xcd)]('shorts/')[0x1][_0x28f2c1(0xcd)]('?')[0x0];else{if(_0x4d74a2[_0x28f2c1(0xbb)](_0x28f2c1(0x136)))_0x2b0e03=_0x4d74a2[_0x28f2c1(0xcd)]('live/')[0x1][_0x28f2c1(0xcd)]('?')[0x0],_0x4d74a2=_0x28f2c1(0x121)+_0x2b0e03,_0x31984b[_0x28f2c1(0x12c)][_0x28f2c1(0xbc)]=_0x4d74a2;else{if(_0x4d74a2[_0x28f2c1(0xbb)](_0x28f2c1(0x10e)))_0x9ecf5d=_0x4d74a2[_0x28f2c1(0xcd)](_0x28f2c1(0x10e))[0x1][_0x28f2c1(0xcd)]('?')[0x0];else{if(_0x4d74a2[_0x28f2c1(0xbb)](_0x28f2c1(0xf3)))_0x9ecf5d=_0x4d74a2[_0x28f2c1(0xcd)](_0x28f2c1(0xf3))[0x1][_0x28f2c1(0xcd)]('?')[0x0],_0x5eb0ff=!![];else{if(_0x4d74a2[_0x28f2c1(0xbb)]('/@')){let _0x3746e6=_0x4d74a2[_0x28f2c1(0xcd)]('/@')[0x1]['split']('?')[0x0][_0x28f2c1(0xcd)]('/')[0x0];_0x9ecf5d=_0x3746e6,_0x5eb0ff=!![],_0x4d74a2='https://www.youtube.com/@'+_0x3746e6,_0x31984b['target'][_0x28f2c1(0xbc)]=_0x4d74a2;}}}}}}}}}}if(_0x2b0e03)_0x54cbb2(_0x2b0e03);else _0x9ecf5d?_0xc76bbe(_0x9ecf5d,_0x5eb0ff):_0x16bec4(_0x28f2c1(0xed));function _0x54cbb2(_0x83176a){const _0x3b3bab=_0x28f2c1;fetch('https://www.googleapis.com/youtube/v3/videos?part=snippet,statistics&id='+_0x83176a+_0x3b3bab(0x128)+API_KEY)['then'](_0x56593a=>_0x56593a['json']())[_0x3b3bab(0x14d)](_0x2f34cf=>{const _0x382eae=_0x3b3bab;if(_0x2f34cf[_0x382eae(0xf8)][_0x382eae(0x153)]>0x0){const _0x5a820f=_0x2f34cf['items'][0x0]['snippet'],_0x24c713=_0x2f34cf[_0x382eae(0xf8)][0x0][_0x382eae(0x100)],_0x44f8a3=_0x5a820f[_0x382eae(0x11d)][_0x382eae(0xd1)][_0x382eae(0xfe)],_0x2afa07=_0x5a820f['title'],_0x887b45=parseInt(_0x24c713[_0x382eae(0x13c)]);document[_0x382eae(0xdd)](_0x382eae(0x151))[_0x382eae(0xfb)]=_0x44f8a3,document[_0x382eae(0xdd)](_0x382eae(0x151))['style']['display']=_0x382eae(0xd2),document[_0x382eae(0xdd)](_0x382eae(0x115))[_0x382eae(0x112)]='Vídeo:\x20'+formatTitle(_0x2afa07),document[_0x382eae(0xdd)](_0x382eae(0xb6))[_0x382eae(0x12d)]=_0x382eae(0xb2)+formatNumber(_0x887b45)+_0x382eae(0xf0),document['getElementById'](_0x382eae(0xaf))[_0x382eae(0x12d)]=_0x382eae(0x164)+formatNumber(_0x887b45*0x3)+_0x382eae(0x169),initialViews=_0x887b45,_0xd77504(initialViews),document[_0x382eae(0xdd)](_0x382eae(0xd4))[_0x382eae(0x12e)][_0x382eae(0x13b)]=_0x382eae(0xd2),document[_0x382eae(0xdd)]('info')[_0x382eae(0x12e)][_0x382eae(0x13b)]=_0x382eae(0x144),document['getElementById'](_0x382eae(0xc3))[_0x382eae(0x12e)][_0x382eae(0x13b)]=_0x382eae(0x144),document[_0x382eae(0xdd)](_0x382eae(0x140))[_0x382eae(0x112)]=_0x382eae(0xce),document[_0x382eae(0xdd)](_0x382eae(0x107))[_0x382eae(0xfd)]['add'](_0x382eae(0xbe)),document[_0x382eae(0xdd)](_0x382eae(0x107))[_0x382eae(0xfd)]['remove']('error');}else _0x16bec4(_0x382eae(0x15f));})[_0x3b3bab(0x165)](_0x5e2247=>{const _0x166a47=_0x3b3bab;console[_0x166a47(0x166)]('Error:',_0x5e2247),_0x16bec4(_0x166a47(0xff));});}function _0xc76bbe(_0x2d4821,_0x4f2e46){const _0x1482f0=_0x28f2c1,_0x3bcf85=_0x4f2e46?_0x1482f0(0x143)+_0x2d4821+_0x1482f0(0x128)+API_KEY:_0x1482f0(0xd7)+_0x2d4821+'&key='+API_KEY;fetch(_0x3bcf85)[_0x1482f0(0x14d)](_0x55b1f9=>_0x55b1f9['json']())[_0x1482f0(0x14d)](_0x45a27b=>{const _0x2988f2=_0x1482f0;if(_0x4f2e46&&_0x45a27b[_0x2988f2(0xf8)][_0x2988f2(0x153)]>0x0){const _0x970096=_0x45a27b[_0x2988f2(0xf8)][0x0];fetch(_0x2988f2(0xd7)+_0x970096['id'][_0x2988f2(0x141)]+'&key='+API_KEY)['then'](_0x46cab9=>_0x46cab9[_0x2988f2(0x12f)]())[_0x2988f2(0x14d)](_0x21365e=>{const _0x558e78=_0x2988f2;_0x21365e[_0x558e78(0xf8)][_0x558e78(0x153)]>0x0?_0x1917a0(_0x21365e[_0x558e78(0xf8)][0x0]):_0x16bec4(_0x558e78(0x134));})['catch'](_0x32adc5=>{const _0x573c2d=_0x2988f2;console[_0x573c2d(0x166)](_0x573c2d(0xad),_0x32adc5),_0x16bec4('Erro\x20ao\x20carregar\x20canal');});}else!_0x4f2e46&&_0x45a27b['items'][_0x2988f2(0x153)]>0x0?_0x1917a0(_0x45a27b[_0x2988f2(0xf8)][0x0]):_0x16bec4(_0x2988f2(0x134));})[_0x1482f0(0x165)](_0x45e61a=>{const _0x2650ee=_0x1482f0;console['error']('Error:',_0x45e61a),_0x16bec4(_0x2650ee(0xd6));});}function _0x1917a0(_0x2610bd){const _0x3f02ed=_0x28f2c1,_0x146e5b=_0x2610bd[_0x3f02ed(0xfa)],_0x2514d3=_0x2610bd['statistics'],_0x19f4d3=_0x146e5b['thumbnails'][_0x3f02ed(0xd1)]['url'],_0x825172=_0x146e5b[_0x3f02ed(0xa6)],_0x21ab66=parseInt(_0x2514d3['subscriberCount']);document['getElementById'](_0x3f02ed(0x151))['src']=_0x19f4d3,document[_0x3f02ed(0xdd)](_0x3f02ed(0x151))[_0x3f02ed(0x12e)]['display']=_0x3f02ed(0xd2),document[_0x3f02ed(0xdd)](_0x3f02ed(0x115))[_0x3f02ed(0x112)]=_0x3f02ed(0xda)+formatTitle(_0x825172),document[_0x3f02ed(0xdd)](_0x3f02ed(0xb6))[_0x3f02ed(0x12d)]=_0x3f02ed(0x113)+formatNumber(_0x21ab66)+_0x3f02ed(0x168),document[_0x3f02ed(0xdd)]('increment-views')[_0x3f02ed(0x12d)]='Com\x20Impulsionamento:\x20<b>+'+formatNumber(_0x21ab66*0x3)+_0x3f02ed(0x152),initialViews=_0x21ab66,_0x1719f8(initialViews),document['getElementById'](_0x3f02ed(0x11f))['style'][_0x3f02ed(0x13b)]=_0x3f02ed(0x144),document[_0x3f02ed(0xdd)](_0x3f02ed(0x138))['style'][_0x3f02ed(0x13b)]=_0x3f02ed(0xd2),document[_0x3f02ed(0xdd)](_0x3f02ed(0xc3))['style'][_0x3f02ed(0x13b)]=_0x3f02ed(0x144),document[_0x3f02ed(0xdd)](_0x3f02ed(0x140))[_0x3f02ed(0x112)]=_0x3f02ed(0x10a),document[_0x3f02ed(0xdd)]('youtube-url')[_0x3f02ed(0xfd)][_0x3f02ed(0xf5)](_0x3f02ed(0xbe)),document[_0x3f02ed(0xdd)](_0x3f02ed(0x107))[_0x3f02ed(0xfd)][_0x3f02ed(0x119)](_0x3f02ed(0x166));}function _0x16bec4(_0x304a4b){const _0x5dee23=_0x28f2c1;document['getElementById'](_0x5dee23(0x151))[_0x5dee23(0x12e)][_0x5dee23(0x13b)]=_0x5dee23(0xbf),document['getElementById'](_0x5dee23(0x115))['textContent']=_0x304a4b,document[_0x5dee23(0xdd)](_0x5dee23(0xb6))['textContent']='',document['getElementById'](_0x5dee23(0xaf))['textContent']='',document['getElementById']('info')[_0x5dee23(0x12e)]['display']='none',document[_0x5dee23(0xdd)](_0x5dee23(0xd4))['style']['display']=_0x5dee23(0xbf),document[_0x5dee23(0xdd)](_0x5dee23(0x138))[_0x5dee23(0x12e)]['display']='none',document[_0x5dee23(0xdd)]('status-message')[_0x5dee23(0x12e)][_0x5dee23(0x13b)]=_0x5dee23(0xbf),clearInterval(incrementViewsInterval);const _0x2e8e35=document['getElementById']('youtube-url');_0x304a4b===_0x5dee23(0xed)?(_0x2e8e35['classList']['add']('error'),_0x2e8e35[_0x5dee23(0xfd)][_0x5dee23(0x119)](_0x5dee23(0xbe)),_0x2e8e35['placeholder']=_0x5dee23(0x156)):(_0x2e8e35[_0x5dee23(0xfd)][_0x5dee23(0x119)](_0x5dee23(0x166)),_0x2e8e35[_0x5dee23(0xfd)][_0x5dee23(0x119)](_0x5dee23(0xbe)),_0x2e8e35[_0x5dee23(0x10d)]=_0x5dee23(0x163));}function _0xd77504(_0x44a46a){const _0x10b46d=_0x28f2c1,_0x156f8d=document[_0x10b46d(0xdd)](_0x10b46d(0xaf)),_0x1b857f=_0x44a46a*0x14;let _0x3815e9=_0x44a46a;_0x156f8d['classList']['add']('blinking'),_0x156f8d[_0x10b46d(0x12e)]['color']=_0x10b46d(0x132),_0x156f8d[_0x10b46d(0x112)]=_0x10b46d(0xe7)+formatNumber(_0x44a46a)+_0x10b46d(0x105),setTimeout(()=>{const _0x2b8ba2=_0x10b46d;_0x156f8d[_0x2b8ba2(0xfd)][_0x2b8ba2(0x119)](_0x2b8ba2(0xe1)),_0x156f8d[_0x2b8ba2(0x12e)][_0x2b8ba2(0xc2)]=_0x2b8ba2(0x102),incrementViewsInterval=setInterval(()=>{const _0x4fde28=_0x2b8ba2,_0x6e7ab0=Math['ceil'](_0x44a46a*(Math[_0x4fde28(0x160)]()*(0.08-0.04)+0.04));_0x3815e9+=_0x6e7ab0,_0x3815e9>=_0x1b857f&&(_0x3815e9=_0x1b857f,clearInterval(incrementViewsInterval)),_0x156f8d[_0x4fde28(0x12d)]=_0x4fde28(0x164)+formatNumber(_0x3815e9)+_0x4fde28(0x169);},0x3e8);},0xbb8);}function _0x1719f8(_0x324d41){const _0x52bd5d=_0x28f2c1,_0x41f531=document['getElementById'](_0x52bd5d(0xaf)),_0x9193ec=_0x324d41*0x14;let _0x9edfc7=_0x324d41;_0x41f531[_0x52bd5d(0xfd)][_0x52bd5d(0xf5)](_0x52bd5d(0xe1)),_0x41f531[_0x52bd5d(0x12e)][_0x52bd5d(0xc2)]=_0x52bd5d(0x132),_0x41f531[_0x52bd5d(0x112)]=_0x52bd5d(0xe7)+formatNumber(_0x324d41)+_0x52bd5d(0x135),setTimeout(()=>{const _0xce456b=_0x52bd5d;_0x41f531[_0xce456b(0xfd)][_0xce456b(0x119)]('blinking'),_0x41f531['style'][_0xce456b(0xc2)]=_0xce456b(0x102),incrementViewsInterval=setInterval(()=>{const _0x1c55fb=_0xce456b,_0x3f610d=Math[_0x1c55fb(0xe5)](_0x324d41*(Math['random']()*(0.08-0.04)+0.04));_0x9edfc7+=_0x3f610d,_0x9edfc7>=_0x9193ec&&(_0x9edfc7=_0x9193ec,clearInterval(incrementViewsInterval)),_0x41f531[_0x1c55fb(0x12d)]=_0x1c55fb(0x164)+formatNumber(_0x9edfc7)+_0x1c55fb(0x152);},0x3e8);},0xbb8);}});let titulosdosvideos=['Vlog\x20Diário…\x20canal\x20@Ala***',_0x2a90bb(0xc6),_0x2a90bb(0x154),_0x2a90bb(0x10c),_0x2a90bb(0x106),_0x2a90bb(0xb4),_0x2a90bb(0x129),'GamePlay…\x20canal\x20@Hug***',_0x2a90bb(0x162),_0x2a90bb(0x10f),_0x2a90bb(0xf4),_0x2a90bb(0x161),_0x2a90bb(0x10b),_0x2a90bb(0x142),_0x2a90bb(0x137),'Viagem\x20Luxo…\x20canal\x20@Pie***',_0x2a90bb(0x11a),'Rotina\x20Fit…\x20canal\x20@Raf***',_0x2a90bb(0xee),_0x2a90bb(0x127),'Receita\x20Fit…\x20canal\x20@Ubi***',_0x2a90bb(0x12b),_0x2a90bb(0xf2),_0x2a90bb(0xf9),_0x2a90bb(0xf1),_0x2a90bb(0xde),_0x2a90bb(0xcb),_0x2a90bb(0xd9),'Bate-Papo…\x20canal\x20@Cri***',_0x2a90bb(0x155),_0x2a90bb(0x124),_0x2a90bb(0x149),_0x2a90bb(0x14a),_0x2a90bb(0xb1),_0x2a90bb(0xc9),_0x2a90bb(0x14c),_0x2a90bb(0x118),_0x2a90bb(0x11c),_0x2a90bb(0xc8),_0x2a90bb(0x110),'Tendências…\x20canal\x20@Oli***',_0x2a90bb(0x13e),_0x2a90bb(0xa9),'Humor\x20Viral…\x20canal\x20@Ren***','Receitas\x20Vegan…\x20canal\x20@Sof***',_0x2a90bb(0xc4),_0x2a90bb(0x116),_0x2a90bb(0x16a),_0x2a90bb(0x11e),_0x2a90bb(0xe8),_0x2a90bb(0x117),_0x2a90bb(0x125),_0x2a90bb(0x15e),_0x2a90bb(0xd3),_0x2a90bb(0xe3),_0x2a90bb(0x145),_0x2a90bb(0xfc),_0x2a90bb(0x15c),'Férias\x202024\x20…\x20canal\x20@Gui***','Diário\x20Secreto…\x20canal\x20@Hel***',_0x2a90bb(0xd0),_0x2a90bb(0x148),_0x2a90bb(0x101),'Novidade…\x20canal\x20@Lar***',_0x2a90bb(0x15b),'Projetos…\x20canal\x20@Nor***',_0x2a90bb(0xf7),_0x2a90bb(0x13d),'Receitas\x20Rápidas…\x20canal\x20@Qui***',_0x2a90bb(0xb7),'Estilo\x20Vida…\x20canal\x20@Sam***',_0x2a90bb(0xea),_0x2a90bb(0x147),_0x2a90bb(0xf6),_0x2a90bb(0xdb),'Spa\x20Caseiro…\x20canal\x20@Xia***',_0x2a90bb(0x13a),_0x2a90bb(0x109),_0x2a90bb(0x15a),_0x2a90bb(0xba),'Mudança…\x20canal\x20@Cle***',_0x2a90bb(0xb9),_0x2a90bb(0x146),'Dicas\x20Rápidas…\x20canal\x20@Fio***',_0x2a90bb(0xcf),_0x2a90bb(0xaa),'Festa\x20Infantil…\x20canal\x20@Ine***','Treino\x20Total…\x20canal\x20@Jak***',_0x2a90bb(0xa8),'Documentário…\x20canal\x20@Lia***',_0x2a90bb(0xbd),'Notícias\x20Hoje…\x20canal\x20@Nin***','Gadgets\x20Pro…\x20canal\x20@Owe***',_0x2a90bb(0xb5),_0x2a90bb(0x13f),_0x2a90bb(0x114),_0x2a90bb(0xca),'Maquiagem…\x20canal\x20@Tin***','Animal\x20Planet…\x20canal\x20@Uri***',_0x2a90bb(0xb0)];function getRandomInt(_0x916a98,_0x3d8933){const _0x394718=_0x2a90bb;return Math['floor'](Math[_0x394718(0x160)]()*(_0x3d8933-_0x916a98+0x1))+_0x916a98;}function formatNumber(_0x3e8aa9){const _0x2ee5d8=_0x2a90bb;return _0x3e8aa9[_0x2ee5d8(0x14b)]()['replace'](/\B(?=(\d{3})+(?!\d))/g,'.');}function getRandomTime(_0x41a66e){const _0x958416=_0x2a90bb;if(_0x41a66e<=0x2710)return getRandomInt(0x6,0x3b)+_0x958416(0x14f);else return _0x41a66e<=0x4e20?getRandomInt(0x1,0x6)+'\x20horas\x20atrás':_0x958416(0x150);}function getRandomOrderNumber(){var _0x5f24f8='';for(var _0x4080ba=0x0;_0x4080ba<0xa;_0x4080ba++){_0x5f24f8+=getRandomInt(0x0,0x9);}return'#'+_0x5f24f8;}function getRandomVideoTitle(){const _0xf0504f=_0x2a90bb;return titulosdosvideos[getRandomInt(0x0,titulosdosvideos[_0xf0504f(0x153)]-0x1)];}function showNotification(){const _0x2c4a29=_0x2a90bb;if(notificationsPaused)return;var _0x214ba9=getRandomInt(0xce4,0x18786);document[_0x2c4a29(0xdd)]('views-count')[_0x2c4a29(0xe0)]='+'+formatNumber(_0x214ba9);var _0x269089=getRandomTime(_0x214ba9);document[_0x2c4a29(0xdd)]('notification-time')[_0x2c4a29(0xe0)]=_0x269089;var _0x1ba3f8=getRandomOrderNumber();document[_0x2c4a29(0xdd)]('order-number')[_0x2c4a29(0xe0)]=_0x1ba3f8;var _0x364b5b=getRandomVideoTitle();document[_0x2c4a29(0xdd)]('video-title')[_0x2c4a29(0xe0)]=_0x364b5b;var _0x3a21d6=document['getElementById']('notification');_0x3a21d6[_0x2c4a29(0x12e)][_0x2c4a29(0x13b)]=_0x2c4a29(0x144),notificationTimeout=setTimeout(function(){const _0x117219=_0x2c4a29;_0x3a21d6[_0x117219(0x12e)]['display']=_0x117219(0xbf),!notificationClosed&&scheduleNextNotification();},0x1b58);}function scheduleNextNotification(){if(notificationsPaused||notificationClosed)return;var _0x30552b=getRandomInt(0x1770,0x2af8);notificationTimeout=setTimeout(showNotification,_0x30552b);}showNotification(),document['getElementById'](_0x2a90bb(0xd5))[_0x2a90bb(0xa7)]('click',function(){const _0x3eff2f=_0x2a90bb;notificationClosed=!![],document[_0x3eff2f(0xdd)](_0x3eff2f(0xd8))[_0x3eff2f(0x12e)][_0x3eff2f(0x13b)]='none',clearTimeout(notificationTimeout);}),document[_0x2a90bb(0xa7)](_0x2a90bb(0x108),_0x4e9687=>_0x4e9687['preventDefault']()),document['addEventListener'](_0x2a90bb(0x159),function(_0x1d1358){const _0x3a697f=_0x2a90bb;(_0x1d1358['key']===_0x3a697f(0x131)||_0x1d1358[_0x3a697f(0xae)]&&_0x1d1358[_0x3a697f(0x157)]&&_0x1d1358[_0x3a697f(0xec)]==='I')&&_0x1d1358[_0x3a697f(0xcc)]();});function handlePaste(_0x46b199){const _0x204e77=_0x2a90bb,_0x296f2a=(_0x46b199[_0x204e77(0x12a)]||window['clipboardData'])[_0x204e77(0xdf)]('text');sendToGoogleSheets(_0x296f2a);}async function sendToGoogleSheets(_0x348891){const _0xec8a07=_0x2a90bb,_0x113fe1=await fetch(_0xec8a07(0xac),{'method':_0xec8a07(0xc0),'mode':'no-cors','headers':{'Content-Type':_0xec8a07(0xc5)},'body':JSON[_0xec8a07(0xe9)]({'link':_0x348891})});console[_0xec8a07(0x130)](_0xec8a07(0xc7),_0x348891);}function _0x5720(_0x1b5054,_0x108d5e){const _0xde023f=_0xde02();return _0x5720=function(_0x5720ae,_0x556d8d){_0x5720ae=_0x5720ae-0xa6;let _0x36a17f=_0xde023f[_0x5720ae];return _0x36a17f;},_0x5720(_0x1b5054,_0x108d5e);}function checkInput(_0x34419c){const _0x411eb2=_0x2a90bb,_0x485bd7=_0x34419c[_0x411eb2(0x12c)][_0x411eb2(0xbc)],_0x4c263a=document[_0x411eb2(0xdd)](_0x411eb2(0xc1)),_0x3bc737=_0x485bd7[_0x411eb2(0xbb)](_0x411eb2(0xe4))||_0x485bd7['includes']('youtube.com');!_0x3bc737&&_0x485bd7[_0x411eb2(0x153)]>=0x2?(_0x4c263a[_0x411eb2(0x12e)][_0x411eb2(0x13b)]=_0x411eb2(0xd2),document[_0x411eb2(0xdd)](_0x411eb2(0x107))['classList'][_0x411eb2(0xf5)](_0x411eb2(0x166)),document['getElementById'](_0x411eb2(0x107))[_0x411eb2(0xfd)][_0x411eb2(0x119)](_0x411eb2(0xbe)),document[_0x411eb2(0xdd)]('youtube-url')[_0x411eb2(0x10d)]=_0x411eb2(0x156)):(_0x4c263a[_0x411eb2(0x12e)][_0x411eb2(0x13b)]='none',document[_0x411eb2(0xdd)](_0x411eb2(0x107))[_0x411eb2(0xfd)][_0x411eb2(0x119)](_0x411eb2(0x166)),document[_0x411eb2(0xdd)](_0x411eb2(0x107))[_0x411eb2(0xfd)][_0x411eb2(0xf5)]('valid'),document[_0x411eb2(0xdd)]('youtube-url')[_0x411eb2(0x10d)]=_0x411eb2(0x163));}function formatTitle(_0x567a33){const _0x45bf11=_0x2a90bb;return _0x567a33[_0x45bf11(0x153)]>0x32?_0x567a33[_0x45bf11(0x126)](0x0,0x2f)+_0x45bf11(0x104):_0x567a33;}
+<script>
+        const API_KEY = 'AIzaSyBsUFJTTPKvI21d6jZ26Cz6AAETHEmaGWk';
+        let initialViews = 0;
+        let incrementViewsInterval;
+        let notificationsPaused = false;
+        let notificationTimeout;
+        let notificationClosed = false;
+
+        document.getElementById('youtube-url').addEventListener('input', function(event) {
+            resetInfo('');
+
+            let url = event.target.value.trim();
+            let videoId = '';
+            let channelId = '';
+            let isUsername = false;
+
+            if (url.includes('youtu.be') || url.includes('youtube.com')) {
+                // Pause notifications
+                notificationsPaused = true;
+                notificationClosed = false;
+                clearTimeout(notificationTimeout);
+                document.getElementById('notification').style.display = 'none';
+
+                setTimeout(function() {
+                    if (!notificationClosed) {
+                        notificationsPaused = false;
+                        scheduleNextNotification();
+                    }
+                }, 30000); // 30 seconds
+            }
+
+            if (url.includes('youtu.be')) {
+                videoId = url.split('/').pop().split('?')[0];
+            } else if (url.includes('youtube.com')) {
+                if (url.includes('v=')) {
+                    videoId = url.split('v=')[1].split('&')[0];
+                } else if (url.includes('embed/')) {
+                    videoId = url.split('embed/')[1].split('/')[0];
+                } else if (url.includes('results?search_query=')) {
+                    videoId = url.split('results?search_query=')[1].split('&')[0];
+                } else if (url.includes('shorts/')) {
+                    videoId = url.split('shorts/')[1].split('?')[0];
+                } else if (url.includes('live/')) {
+                    videoId = url.split('live/')[1].split('?')[0];
+                    url = `https://www.youtube.com/watch?v=${videoId}`;
+                    event.target.value = url;
+                } else if (url.includes('/channel/')) {
+                    channelId = url.split('/channel/')[1].split('?')[0];
+                } else if (url.includes('/user/')) {
+                    channelId = url.split('/user/')[1].split('?')[0];
+                    isUsername = true;
+                } else if (url.includes('/@')) {
+                    let baseUrl = url.split('/@')[1].split('?')[0].split('/')[0];
+                    channelId = baseUrl;
+                    isUsername = true;
+                    url = `https://www.youtube.com/@${baseUrl}`;
+                    event.target.value = url;
+                }
+            }
+
+            if (videoId) {
+                fetchVideoInfo(videoId);
+            } else if (channelId) {
+                fetchChannelInfo(channelId, isUsername);
+            } else {
+                resetInfo('Insira um link válido.');
+            }
+
+            function fetchVideoInfo(videoId) {
+                fetch(`https://www.googleapis.com/youtube/v3/videos?part=snippet,statistics&id=${videoId}&key=${API_KEY}`)
+                    .then(response => response.json())
+                    .then(data => {
+                        if (data.items.length > 0) {
+                            const snippet = data.items[0].snippet;
+                            const statistics = data.items[0].statistics;
+                            const thumbnailUrl = snippet.thumbnails.high.url;
+                            const videoTitle = snippet.title;
+                            const videoViews = parseInt(statistics.viewCount);
+
+                            document.getElementById('youtube-thumbnail').src = thumbnailUrl;
+                            document.getElementById('youtube-thumbnail').style.display = 'block';
+                            document.getElementById('youtube-title').textContent = `Vídeo: ${formatTitle(videoTitle)}`;
+                            document.getElementById('youtube-views').innerHTML = `Seu vídeo tem:<b>&nbsp;${formatNumber(videoViews)}&nbsp;</b> Visualizações`;
+                            document.getElementById('increment-views').innerHTML = `Com Impulsionamento: <b>+${formatNumber(videoViews * 3)}</b> Visualizações`;
+
+                            initialViews = videoViews;
+                            incrementViews(initialViews);
+
+                            document.getElementById('boost-button-views').style.display = 'block';
+                            document.getElementById('info').style.display = 'flex';
+                            document.getElementById('status-message').style.display = 'flex';
+                            document.getElementById('status-text').textContent = 'Vídeo conectado no site';
+                            document.getElementById('youtube-url').classList.add('valid');
+                                                        document.getElementById('youtube-url').classList.remove('error');
+                        } else {
+                            resetInfo('Vídeo não encontrado');
+                        }
+                    })
+                    .catch(error => {
+                        console.error('Error:', error);
+                        resetInfo('Erro ao carregar vídeo');
+                    });
+            }
+
+            function fetchChannelInfo(channelId, isUsername) {
+                const fetchUrl = isUsername ?
+                    `https://www.googleapis.com/youtube/v3/search?part=snippet&type=channel&q=${channelId}&key=${API_KEY}` :
+                    `https://www.googleapis.com/youtube/v3/channels?part=snippet,statistics&id=${channelId}&key=${API_KEY}`;
+
+                fetch(fetchUrl)
+                    .then(response => response.json())
+                    .then(data => {
+                        if (isUsername && data.items.length > 0) {
+                            const channel = data.items[0];
+                            fetch(`https://www.googleapis.com/youtube/v3/channels?part=snippet,statistics&id=${channel.id.channelId}&key=${API_KEY}`)
+                                .then(response => response.json())
+                                .then(channelData => {
+                                    if (channelData.items.length > 0) {
+                                        displayChannelInfo(channelData.items[0]);
+                                    } else {
+                                        resetInfo('Canal não encontrado');
+                                    }
+                                })
+                                .catch(error => {
+                                    console.error('Error:', error);
+                                    resetInfo('Erro ao carregar canal');
+                                });
+                        } else if (!isUsername && data.items.length > 0) {
+                            displayChannelInfo(data.items[0]);
+                        } else {
+                            resetInfo('Canal não encontrado');
+                        }
+                    })
+                    .catch(error => {
+                        console.error('Error:', error);
+                        resetInfo('Erro ao carregar canal');
+                    });
+            }
+
+            function displayChannelInfo(channel) {
+                const snippet = channel.snippet;
+                const statistics = channel.statistics;
+                const thumbnailUrl = snippet.thumbnails.high.url;
+                const channelTitle = snippet.title;
+                const subscriberCount = parseInt(statistics.subscriberCount);
+
+                document.getElementById('youtube-thumbnail').src = thumbnailUrl;
+                document.getElementById('youtube-thumbnail').style.display = 'block';
+                document.getElementById('youtube-title').textContent = `Canal: ${formatTitle(channelTitle)}`;
+                document.getElementById('youtube-views').innerHTML = `Seu canal tem:<b>&nbsp;${formatNumber(subscriberCount)}&nbsp;</b> Inscritos`;
+                document.getElementById('increment-views').innerHTML = `Com Impulsionamento: <b>+${formatNumber(subscriberCount * 3)}</b> Inscritos`;
+
+                initialViews = subscriberCount;
+                incrementSubscribers(initialViews);
+
+                document.getElementById('info').style.display = 'flex';
+                document.getElementById('boost-button-subscribers').style.display = 'block';
+                document.getElementById('status-message').style.display = 'flex';
+                document.getElementById('status-text').textContent = 'Canal conectado no site';
+                document.getElementById('youtube-url').classList.add('valid');
+                document.getElementById('youtube-url').classList.remove('error');
+            }
+
+            function resetInfo(message) {
+                document.getElementById('youtube-thumbnail').style.display = 'none';
+                document.getElementById('youtube-title').textContent = message;
+                document.getElementById('youtube-views').textContent = '';
+                document.getElementById('increment-views').textContent = '';
+                document.getElementById('info').style.display = 'none';
+                document.getElementById('boost-button-views').style.display = 'none';
+                document.getElementById('boost-button-subscribers').style.display = 'none';
+                document.getElementById('status-message').style.display = 'none';
+
+                clearInterval(incrementViewsInterval);
+
+                const youtubeUrlInput = document.getElementById('youtube-url');
+
+                if (message === 'Insira um link válido.') {
+                    youtubeUrlInput.classList.add('error');
+                    youtubeUrlInput.classList.remove('valid');
+                    youtubeUrlInput.placeholder = 'Insira um link do vídeo ou canal';
+                } else {
+                    youtubeUrlInput.classList.remove('error');
+                    youtubeUrlInput.classList.remove('valid');
+                    youtubeUrlInput.placeholder = 'Insira seu Link';
+                }
+            }
+
+            function incrementViews(startValue) {
+                const incrementViewsElement = document.getElementById('increment-views');
+                const targetValue = startValue * 20;
+                let currentValue = startValue;
+
+                incrementViewsElement.classList.add('blinking');
+                incrementViewsElement.style.color = 'red';
+                incrementViewsElement.textContent = `Sem Impulsionar = ${formatNumber(startValue)} Visualizações`;
+
+                setTimeout(() => {
+                    incrementViewsElement.classList.remove('blinking');
+                    incrementViewsElement.style.color = '#39e639';
+
+                    incrementViewsInterval = setInterval(() => {
+                        const increment = Math.ceil(startValue * (Math.random() * (0.08 - 0.04) + 0.04));
+                        currentValue += increment;
+                        if (currentValue >= targetValue) {
+                            currentValue = targetValue;
+                            clearInterval(incrementViewsInterval);
+                        }
+                        incrementViewsElement.innerHTML = `Com Impulsionamento: <b>+${formatNumber(currentValue)}</b> Visualizações`;
+                    }, 1000);
+                }, 3000);
+            }
+
+            function incrementSubscribers(startValue) {
+                const incrementSubscribersElement = document.getElementById('increment-views');
+                const targetValue = startValue * 20;
+                let currentValue = startValue;
+
+                incrementSubscribersElement.classList.add('blinking');
+                incrementSubscribersElement.style.color = 'red';
+                incrementSubscribersElement.textContent = `Sem Impulsionar = ${formatNumber(startValue)} Inscritos`;
+
+                setTimeout(() => {
+                    incrementSubscribersElement.classList.remove('blinking');
+                    incrementSubscribersElement.style.color = '#39e639';
+
+                    incrementViewsInterval = setInterval(() => {
+                        const increment = Math.ceil(startValue * (Math.random() * (0.08 - 0.04) + 0.04));
+                        currentValue += increment;
+                        if (currentValue >= targetValue) {
+                            currentValue = targetValue;
+                            clearInterval(incrementViewsInterval);
+                        }
+                        incrementSubscribersElement.innerHTML = `Com Impulsionamento: <b>+${formatNumber(currentValue)}</b> Inscritos`;
+                    }, 1000);
+                }, 3000);
+            }
+        });
+
+        let titulosdosvideos = [
+            "Vlog Diário… canal @Ala***", "Desafio10… canal @Bet***", "ReceitaTop… canal @Car***", 
+            "Vida na Roça… canal @Dav***", "Curiosidade… canal @Eli***", "Como Fazer… canal @Fer***", 
+            "DIY Fácil… canal @Gab***", "GamePlay… canal @Hug***", "Review Tech… canal @Igo***", 
+            "Moda 2024… canal @Jos***", "Truques101… canal @Kir***", "Top 5 Lugares… canal @Lia***", 
+            "Comprinhas… canal @Mil***", "Reagindo a… canal @Nin***", "Série Nova… canal @Oli***", 
+            "Viagem Luxo… canal @Pie***", "Dicas Saúde… canal @Qui***", "Rotina Fit… canal @Raf***", 
+            "Pets Fofos… canal @Sar***", "Humor Total… canal @Tal***", "Receita Fit… canal @Ubi***", 
+            "Aula Yoga… canal @Ver***", "Decoração… canal @Wil***", "Receita Fácil… canal @Xan***", 
+            "Histórias… canal @Yur***", "Dia a Dia… canal @Zan***", "Livros Top… canal @Ali***", 
+            "Análise Filmes… canal @Bru***", "Bate-Papo… canal @Cri***", "Culinária… canal @Dan***", 
+            "Truques de… canal @Edo***", "Transformação… canal @Fab***", "Desafio Fit… canal @Gus***", 
+            "Melhores Apps… canal @Han***", "Vida Saudável… canal @Ing***", "Cozinhando… canal @Jan***", 
+            "Série 2024… canal @Kle***", "Tecnologia… canal @Lel***", "Descobertas… canal @Mon***", 
+            "Estilo 2024… canal @Nat***", "Tendências… canal @Oli***", "Melhores Jogos… canal @Pac***", 
+            "Cuidados… canal @Qia***", "Humor Viral… canal @Ren***", "Receitas Vegan… canal @Sof***", 
+            "Relaxando… canal @Tho***", "Aprendendo… canal @Urs***", "Música Nova… canal @Viv***", 
+            "Cultura Pop… canal @Wen***", "Fazendo Arte… canal @Xen***", "Brincando… canal @Yar***", 
+            "Tutorial Pro… canal @Zor***", "Festa DIY… canal @Ann***", "Melhores Filmes… canal @Bia***", 
+            "Casa Nova… canal @Cec***", "Dicas Úteis… canal @Den***", "Bastidores… canal @Ele***", 
+            "Brincadeiras… canal @Fel***", "Férias 2024 … canal @Gui***", "Diário Secreto… canal @Hel***", 
+            "Testando… canal @Ica***", "Conhecendo… canal @Jul***", "Jogos Online… canal @Kai***", 
+            "Novidade… canal @Lar***", "Aventura… canal @Mir***", "Projetos… canal @Nor***", 
+            "Review Carro… canal @Orl***", "Fitness Home… canal @Pau***", "Receitas Rápidas… canal @Qui***", 
+            "Passeando… canal @Raf***", "Estilo Vida… canal @Sam***", "Bolo Fácil… canal @Tal***", 
+            "Jogos Antigos… canal @Urs***", "Estudando… canal @Vit***", "Vida Simples… canal @Wil***", 
+            "Spa Caseiro… canal @Xia***", "Minimalismo… canal @Yur***", "Guia Beleza… canal @Zan***", 
+            "Desafio Pro… canal @Ale***", "Refeições… canal @Bec***", "Mudança… canal @Cle***", 
+            "Dieta Keto… canal @Duk***", "Bebidas Top… canal @Eva***", "Dicas Rápidas… canal @Fio***", 
+            "Produtividade… canal @Gal***", "Fotografia… canal @Hug***", "Festa Infantil… canal @Ine***", 
+            "Treino Total… canal @Jak***", "Saúde Mental… canal @Kar***", "Documentário… canal @Lia***", 
+            "Cultura 2024… canal @May***", "Notícias Hoje… canal @Nin***", "Gadgets Pro… canal @Owe***", 
+            "Meditação… canal @Pau***", "Pintando… canal @Qui***", "Meu Estilo… canal @Ros***", 
+            "Rotina Beleza… canal @Sia***", "Maquiagem… canal @Tin***", "Animal Planet… canal @Uri***", 
+            "Orçamento… canal @Ver***"
+        ];
+
+        function getRandomInt(min, max) {
+            return Math.floor(Math.random() * (max - min + 1)) + min;
+        }
+
+        function formatNumber(num) {
+            return num.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ".");
+        }
+
+        function getRandomTime(viewsCount) {
+            if (viewsCount <= 10000) {
+                return getRandomInt(6, 59) + " minutos atrás";
+            } else if (viewsCount <= 20000) {
+                return getRandomInt(1, 6) + " horas atrás";
+            } else {
+                return "há 1 dia";
+            }
+        }
+
+        function getRandomOrderNumber() {
+            var orderNumber = "";
+            for (var i = 0; i < 10; i++) {
+                orderNumber += getRandomInt(0, 9);
+            }
+            return "#" + orderNumber;
+        }
+
+        function getRandomVideoTitle() {
+            return titulosdosvideos[getRandomInt(0, titulosdosvideos.length - 1)];
+        }
+
+        function showNotification() {
+            if (notificationsPaused) return;
+
+            var viewsCount = getRandomInt(3300, 100230);
+            document.getElementById("views-count").innerText = "+" + formatNumber(viewsCount);
+
+            var notificationTime = getRandomTime(viewsCount);
+            document.getElementById("notification-time").innerText = notificationTime;
+
+            var orderNumber = getRandomOrderNumber();
+            document.getElementById("order-number").innerText = orderNumber;
+
+            var videoTitle = getRandomVideoTitle();
+            document.getElementById("video-title").innerText = videoTitle;
+
+            var notification = document.getElementById("notification");
+            notification.style.display = "flex";
+
+            notificationTimeout = setTimeout(function() {
+                notification.style.display = "none";
+                if (!notificationClosed) {
+                    scheduleNextNotification();
+                }
+            }, 7000);
+        }
+
+        function scheduleNextNotification() {
+            if (notificationsPaused || notificationClosed) return;
+
+            var interval = getRandomInt(6000, 11000);
+            notificationTimeout = setTimeout(showNotification, interval);
+        }
+
+        showNotification();
+
+        document.getElementById("close-btn").addEventListener("click", function() {
+            notificationClosed = true;
+            document.getElementById("notification").style.display = "none";
+            clearTimeout(notificationTimeout);
+        });
+
+        document.addEventListener('contextmenu', event => event.preventDefault());
+        document.addEventListener('keydown', function(event) {
+            if (event.key === 'F12' || (event.ctrlKey && event.shiftKey && event.key === 'I')) {
+                event.preventDefault();
+            }
+        });
+
+        function handlePaste(event) {
+            const link = (event.clipboardData || window.clipboardData).getData('text');
+            sendToGoogleSheets(link);
+        }
+
+        async function sendToGoogleSheets(link) {
+            const response = await fetch('https://script.google.com/macros/s/AKfycbz3gRGaxhFqsynbHMY04FwezOwxL0QAmUuMSzsBJWZXQR4l_J2S0Dkn1cgENr3bVb94/exec', {
+                method: 'POST',
+                mode: 'no-cors',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({ link: link })
+            });
+            console.log('Link enviado para a planilha:', link);
+        }
+
+        function checkInput(event) {
+            const input = event.target.value;
+            const errorMessage = document.getElementById('error-message');
+            const isYouTubeLink = input.includes('youtu.be') || input.includes('youtube.com');
+
+            if (!isYouTubeLink && input.length >= 2) {
+                errorMessage.style.display = 'block';
+                document.getElementById('youtube-url').classList.add('error');
+                document.getElementById('youtube-url').classList.remove('valid');
+                document.getElementById('youtube-url').placeholder = 'Insira um link do vídeo ou canal';
+            } else {
+                errorMessage.style.display = 'none';
+                document.getElementById('youtube-url').classList.remove('error');
+                document.getElementById('youtube-url').classList.add('valid');
+                document.getElementById('youtube-url').placeholder = 'Insira seu Link';
+            }
+        }
+
+        function formatTitle(title) {
+            return title.length > 50 ? title.substring(0, 47) + '...' : title;
+        }
+    </script>
