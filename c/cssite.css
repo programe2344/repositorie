@@ -272,30 +272,36 @@
     cursor: pointer !important;
     animation: pulse 2s infinite;
     box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.75) !important;
-    text-align: center !important; /* Centraliza o conteúdo */
-    display: inline-block !important; /* Garante que o botão se ajuste ao conteúdo */
-    max-width: 100% !important; /* Impede que o botão seja muito estreito */
+    text-align: center !important;
+    display: inline-block !important;
+    max-width: 100% !important;
 }
-.custom-popup .finalize-button .button-content {
-    display: flex !important;
+
+.finalize-button .button-content {
+    display: inline-flex !important;
     align-items: center !important;
     justify-content: center !important;
+    width: 100%;
 }
 
-.custom-popup .finalize-button .payment-icon {
-    margin-left: 5px !important;
-}
-
-.custom-popup .finalize-button .price {
-    margin-top: 5px !important;
-    font-size: 1.2em !important;
-    font-weight: bold !important;
-}
-.finalize-button .price {
+.finalize-button .button-content span {
     display: inline-block !important;
+}
+
+.finalize-button .payment-icon {
+    margin-left: 5px !important;
+    /* Ajuste o tamanho do ícone se necessário */
+    width: 20px;
+    height: 20px;
+}
+
+.finalize-button .price {
+    display: block !important;
     margin-top: 5px !important;
     font-size: 1.2em !important;
     font-weight: bold !important;
+    text-align: center !important;
+    width: 100%;
 }
 
 /* Animação do botão */
