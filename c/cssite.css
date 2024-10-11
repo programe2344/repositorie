@@ -260,6 +260,10 @@
     font-size: 14px !important;
 }
 
+.confirmation-text .highlight {
+    color: #90ee90 !important;
+}
+
 /* Botão "FINALIZAR PEDIDO" */
 .finalize-button {
     background-color: #f6de08 !important;
