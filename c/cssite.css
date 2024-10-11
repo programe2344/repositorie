@@ -260,7 +260,8 @@
     font-size: 14px !important;
 }
 
-.confirmation-text .highlight {
+/* CSS atualizado */
+.confirmation-section .confirmation-text .highlight {
     color: #90ee90 !important;
 }
 
