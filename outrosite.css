@@ -563,7 +563,8 @@ body .payment-method .panel-heading[aria-expanded="true"] .dot-pr {
 
 /* Subtítulo/Descrição do Order Bump (Rosa) */
 .order-bump-card .card-header div p {
-    color: #F2295B !important; /* Cor solicitada #F2295B */
+    color: #ffffff !important; /* Cor solicitada #F2295B */
+  font-weight: bold !important; /* Negrito */
 }
 
 /* Manter o preço (que tb é um span) com a cor do header */
