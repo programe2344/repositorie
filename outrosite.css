@@ -540,7 +540,7 @@ body .payment-method .panel-heading[aria-expanded="true"] .dot-pr {
   .order-bump-card {
       background-image: none !important;
       padding: 0 !important;
-      border: 7px dashed #F2295B !important;
+      border: 4px dashed #F2295B !important;
       border-radius: var(--br_box) !important;
       overflow: hidden;
   }
