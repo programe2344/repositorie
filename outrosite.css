@@ -1045,5 +1045,5 @@ body.template-thankyou .no-of-prdts {
   }
 /* Cor específica para o Título "Pagamento" */
 [data-realtime="checkout_payment_method.headline"] {
-    color: #SUA_NOVA_COR !important;
+    color: #ffffff !important;
 }
