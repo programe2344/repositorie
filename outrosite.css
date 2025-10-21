@@ -557,7 +557,7 @@ body .payment-method .panel-heading[aria-expanded="true"] .dot-pr {
   }
   /* Título do Order Bump (Preto e Negrito) */
 .order-bump-card .card-header .font-weight-bold {
-    color: #ffffff !important; /* Preto */
+    color: #000000 !important; /* Preto */
     font-weight: bold !important; /* Negrito */
 }
 
