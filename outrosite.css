@@ -555,24 +555,38 @@ body .payment-method .panel-heading[aria-expanded="true"] .dot-pr {
   .order-bump-card .card-header {
       background-color: #833AB4 !important;
   }
-  .card-header div p, .card-header div span {color: #FFFFFF !important}
-  .card-body {background: var(--white) !important}
+  /* Título do Order Bump (Preto e Negrito) */
+.order-bump-card .card-header .font-weight-bold {
+    color: #000000 !important; /* Preto */
+    font-weight: bold !important; /* Negrito */
+}
+
+/* Subtítulo/Descrição do Order Bump (Rosa) */
+.order-bump-card .card-header div p {
+    color: #F2295B !important; /* Cor solicitada #F2295B */
+}
+
+/* Manter o preço (que tb é um span) com a cor do header */
+.order-bump-card .card-header span:not(.font-weight-bold) {
+     color: #FFFFFF !important; /* Mantém o preço branco, como na imagem original */
+}
   input[type=checkbox].checkbox::after, [name="order-check"] {
-    border: 1px solid #833AB4 !important;
-    border-radius: var(--br_box) !important;
-    box-shadow: 0 0 3px 0 #833AB4 inset;
-    transition: all 0.7s ease-out;
-    overflow: hidden;
-  }
+  border: 2px solid #F2295B !important; /* Borda na cor #F2295B */
+  border-radius: var(--br_box) !important;
+  box-shadow: none !important; /* Removido o box-shadow roxo */
+  background-color: #FFFFFF !important; /* Fundo branco */
+  transition: all 0.7s ease-out;
+  overflow: hidden;
+}
   input[type=checkbox].checkbox:checked::after {
-      background: #833AB4 !important;
-      font-size: 14px;
-      color: #FFFFFF !important;
-      top: -2px;
-      border: 0 !important;
-      box-shadow: 0 0 0;
-      transition: top 0.7s ease-out;
-  }
+    background: #FFFFFF !important; /* Fundo branco (para manter) */
+    font-size: 14px;
+    color: #F2295B !important; /* Cor da marca de seleção (rosa) */
+    top: -2px;
+    border: 0 !important;
+    box-shadow: 0 0 0;
+    transition: top 0.7s ease-out;
+}
   #isPasted {
       background: none !important;
       color: var(--silver) !important;
