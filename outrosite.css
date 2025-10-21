@@ -1043,3 +1043,7 @@ body.template-thankyou .no-of-prdts {
   }
   .content-box__row.hidden {display: none}  
   }
+/* Cor específica para o Título "Pagamento" */
+[data-realtime="checkout_payment_method.headline"] {
+    color: #SUA_NOVA_COR !important;
+}
